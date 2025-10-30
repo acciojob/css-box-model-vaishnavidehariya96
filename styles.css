@@ -1,2 +1,9 @@
-
-/* Your CSS Code here. */
+.box {
+  width: 300px;
+  background-color: lightblue;
+  border: 15px solid blue;
+  padding: 50px;
+  margin: 20px;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
